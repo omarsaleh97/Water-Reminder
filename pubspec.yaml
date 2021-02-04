@@ -33,7 +33,7 @@ dependencies:
   cloud_firestore: ^0.16.0
   google_sign_in:
   rxdart:
-  flutter_local_notifications:
+  flutter_local_notifications: ^0.7.1+1
   shared_preferences:
 dev_dependencies:
   flutter_test:
